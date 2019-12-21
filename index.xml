@@ -6,10 +6,19 @@
     <description>Recent content on k的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Fri, 20 Dec 2019 19:33:27 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2019 13:20:17 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何写博客</title>
+      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 21 Dec 2019 13:20:17 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</guid>
+      <description>写博客的过程： 用VScode打开2247383534.github.io-creator，输入hugo new posts/标题.md 在posts中找到已写的标题，打开改抬头、内容。输入命令行hugo，cd进入public/然后git push 再git add .和gc .然后打开仓库刷新一下。进入settings下滑到GitHub Pages点击链接就可以了。</description>
+    </item>
     
     <item>
       <title>第二篇博客</title>
@@ -17,7 +26,7 @@
       <pubDate>Fri, 20 Dec 2019 19:33:27 +0800</pubDate>
       
       <guid>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-      <description>嗨 又见面了 复习了写博客，终于是写的比之前熟练一点了。</description>
+      <description>嗨 又见面了 复习了写博客，终于是写的比之前熟练一点了.</description>
     </item>
     
     <item>
