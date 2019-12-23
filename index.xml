@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>k的博客</title>
-    <link>%20sunkai.ltd/</link>
+    <link>http://sunkai.ltd/</link>
     <description>Recent content on k的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Sat, 21 Dec 2019 18:35:39 +0800</lastBuildDate>
     
-	<atom:link href="%20sunkai.ltd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sunkai.ltd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>第一次写博客</title>
-      <link>%20sunkai.ltd/posts/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://sunkai.ltd/posts/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Sat, 21 Dec 2019 18:35:39 +0800</pubDate>
       
-      <guid>%20sunkai.ltd/posts/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://sunkai.ltd/posts/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99%E5%8D%9A%E5%AE%A2/</guid>
       <description>第一次写博客的操作： 安装hugo：
  在hugo releases下载hugo_xxx_windows-64bit.zip 解压，把hugo.exe放到D:\software\hugo\hugo.exe 把D:\software\hugo\加到PATH 重启终端，运行hugo version查看版本(复制hugo.exe路径，打开这台电脑属性-高级设置-环境变量找到path然后新建粘贴)一直确定。  快速搭建博客:
  进入hugo官网,点击Quick start快速开始 从step2看到step7,直接看代码 得到一个public/目录，这是我们的博客站点 hugo server -D 可以预览草稿 hugo server 可以预览非草稿 预览网站: 双击打开public/index.html发现不能预览，因为public/index.html不能使用文件协议预览. 请使用hugo server预览  白话操作：
@@ -26,37 +26,37 @@
     
     <item>
       <title>如何写博客</title>
-      <link>%20sunkai.ltd/posts/%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://sunkai.ltd/posts/%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Sat, 21 Dec 2019 13:20:17 +0800</pubDate>
       
-      <guid>%20sunkai.ltd/posts/%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://sunkai.ltd/posts/%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</guid>
       <description>写博客的过程： 用VScode打开2247383534.github.io-creator，输入hugo new posts/标题.md 在posts中找到已写的标题，打开改抬头、内容。输入命令行hugo，cd进入public/然后git add .和gc .再git push然后打开仓库刷新一下。进入settings下滑到GitHub Pages点击链接就可以了。</description>
     </item>
     
     <item>
       <title>第二篇博客</title>
-      <link>%20sunkai.ltd/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://sunkai.ltd/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Fri, 20 Dec 2019 19:33:27 +0800</pubDate>
       
-      <guid>%20sunkai.ltd/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://sunkai.ltd/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
       <description>嗨 又见面了 复习了写博客，终于是写的比之前熟练一点了.</description>
     </item>
     
     <item>
       <title>到此一游</title>
-      <link>%20sunkai.ltd/posts/%E5%88%B0%E6%AD%A4%E4%B8%80%E6%B8%B8/</link>
+      <link>http://sunkai.ltd/posts/%E5%88%B0%E6%AD%A4%E4%B8%80%E6%B8%B8/</link>
       <pubDate>Fri, 20 Dec 2019 14:10:06 +0800</pubDate>
       
-      <guid>%20sunkai.ltd/posts/%E5%88%B0%E6%AD%A4%E4%B8%80%E6%B8%B8/</guid>
+      <guid>http://sunkai.ltd/posts/%E5%88%B0%E6%AD%A4%E4%B8%80%E6%B8%B8/</guid>
       <description>大家好 画幅涂鸦画，写首打油诗。 哼哼唧唧唱支曲儿，把梳子当作口琴吹。</description>
     </item>
     
     <item>
       <title>大吉大利</title>
-      <link>%20sunkai.ltd/posts/%E5%A4%A7%E5%90%89%E5%A4%A7%E5%88%A9/</link>
+      <link>http://sunkai.ltd/posts/%E5%A4%A7%E5%90%89%E5%A4%A7%E5%88%A9/</link>
       <pubDate>Wed, 18 Dec 2019 20:02:00 +0800</pubDate>
       
-      <guid>%20sunkai.ltd/posts/%E5%A4%A7%E5%90%89%E5%A4%A7%E5%88%A9/</guid>
+      <guid>http://sunkai.ltd/posts/%E5%A4%A7%E5%90%89%E5%A4%A7%E5%88%A9/</guid>
       <description>大家好 我的博客开通了，希望我能写出好的博客给大家看。</description>
     </item>
     
