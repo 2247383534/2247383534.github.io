@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sunkai.ltd/posts/html5/</loc>
-    <lastmod>2019-12-23T19:28:20+08:00</lastmod>
+    <loc>http://sunkai.ltd/posts/html%E7%AD%94%E5%8D%B7/</loc>
+    <lastmod>2020-01-01T09:22:54+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://sunkai.ltd/</loc>
-    <lastmod>2019-12-23T19:28:20+08:00</lastmod>
+    <lastmod>2020-01-01T09:22:54+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://sunkai.ltd/posts/</loc>
+    <lastmod>2020-01-01T09:22:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sunkai.ltd/posts/html5/</loc>
     <lastmod>2019-12-23T19:28:20+08:00</lastmod>
   </url>
   
