@@ -6,10 +6,19 @@
     <description>Recent content in Posts on k的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sun, 02 Feb 2020 10:18:56 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 18:23:40 +0800</lastBuildDate>
     
 	<atom:link href="http://sunkai.ltd/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CSS博客</title>
+      <link>http://sunkai.ltd/posts/css%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 26 Mar 2020 18:23:40 +0800</pubDate>
+      
+      <guid>http://sunkai.ltd/posts/css%E5%8D%9A%E5%AE%A2/</guid>
+      <description>CSS 博客 浏览器渲染的原理：  1 根据 HTML 建立 HTML 树（DOM） 2 根据 CSS 建立 CSS 树(CSSOM) 3 将两颗树合并成一颗渲染树（render tree） 4 Layout 布局(文档流、盒模型、计算大小和位置） 5 Paint(把边框颜色、文字颜色、阴影等画出来) 6 Compose(根据叠层关系展示画面)   transition: 作用：补充时间帧 语法：  transition: 属性名 时长 过渡方式 延迟 transition: left 200ms linear 可以用逗号分隔两个不同属性 transition: left 200ms, top 400ms 可以用 all 代表所有属性 transition: all 200ms  过渡方式有：liner|ease|ease-in|ease-out|cubic-bezier|step-start|step-end|steps animation: 声明关键帧 添加动画 缩写语法：animation:时长|过渡方式|延迟|次数|方向|填充模式|是否暂停|动画名；  时长：1s 或者 200ms 过渡方式：跟 transition 取值一样 次数：3 或者 2 4 或者 infinite 方向： reverse|altermate|altermate-reverse 填充模式：none|forwards|backwards|both 是否暂停： paused|running  </description>
+    </item>
     
     <item>
       <title>HTML重难点标签</title>
